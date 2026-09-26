@@ -1,7 +1,8 @@
-/** @type {import('next').NextConfig} */
+// Next.js configuration object.
 const nextConfig = {
-  /* config options here */
-  reactCompiler: true,
+  // Enable React Strict Mode during development.
+  reactStrictMode: true,
 };
 
+// Export the configuration for Next.js.
 export default nextConfig;
