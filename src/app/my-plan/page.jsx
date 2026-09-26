@@ -4,7 +4,7 @@
 import Link from 'next/link';
 
 
-import { Check, Clock3, Flame, Star, X } from 'lucide-react';
+import { AlignJustify, Check, Clock3, Flame, Star, X } from 'lucide-react';
 
 import { Suspense, useEffect, useState } from 'react';
 

@@ -626,14 +626,19 @@ img {
 }
 
 .tab-button {
-  min-height: 38px;
-  padding: 0 14px;
-  border: 1px solid #343942;
+  min-height: 28px;
+  padding: 8px 11px;
+  border: 0.5px solid #343942;
   border-radius: 7px;
   background: transparent;
   color: #9ca3af;
   font-size: 12px;
   font-weight: 700;
+  justify-content: center;
+  min-width: 72px;
+  align-items: center;
+  display: inline-flex;
+  
 }
 
 .tab-button.active {
